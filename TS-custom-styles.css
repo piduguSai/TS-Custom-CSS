@@ -16,6 +16,22 @@
 .bk-title {
   font-size: 10px !important;
 }
+.bk-pinboard-data-viz {
+  padding: 0 12px !important;
+}
 .bk-pinboard-data-viz .bk-pinboard-viz-header {
-  -ms-flex-basis: none !important;
+  display: none !important;
+  -ms-flex-basis: 0 !important;
+  flex-basis: 0 !important;
+  -md-flex-basis: 0 !important;
+}
+.bk-pinboard-data-viz .bk-pinboard-viz-content {
+  margin-top: 0 !important;
+}
+// .dx-pivotgrid.dx-row-lines
+.pivot-table .dx-pivotgrid .dx-pivotgrid-area td {
+  padding: 4px 10px !important;
+}
+.pivot-table .dx-pivotgrid .dx-pivotgrid-area tbody tr {
+  height: 25px !important;
 }
