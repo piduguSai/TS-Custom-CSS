@@ -1,0 +1,44 @@
+[data-testid='test-component'] {
+  background: #fff !important;
+}
+[data-testid='sage-searh-bar'] {
+  box-shadow: none !important;
+  border-radius: 10px;
+}
+.bk-pinboard-data-viz {
+  box-shadow: none !important;
+}
+.bk-pinboard-data-viz {
+  padding: 0 12px !important;
+}
+.bk-pinboard-data-viz .bk-pinboard-viz-header {
+  display: none !important;
+  -ms-flex-basis: 0 !important;
+  flex-basis: 0 !important;
+  -md-flex-basis: 0 !important;
+}
+.bk-pinboard-data-viz .bk-pinboard-viz-content {
+  margin-top: 0 !important;
+}
+.pivot-table .dx-pivotgrid .dx-pivotgrid-area td {
+  padding: 4px 10px !important;
+}
+.pivot-table .dx-area-field-content {
+  max-width: 100% !important;
+}
+.pivot-table table.dx-area-field-container .dx-area-field.dx-area-box {
+  padding: 10px 0.35rem !important;
+}
+.pivot-table .dx-pivotgrid .dx-area-description-cell {
+  min-height: 40px !important;
+}
+.pivot-table .dx-pivotgrid .dx-area-description-cell .dx-pivotgrid-fields-area {
+  min-height: 40px !important;
+}
+.pivot-table .dx-pivotgrid .dx-data-header,
+.pivot-table .dx-pivotgrid .dx-area-row-cell {
+  width: 200px !important;
+}
+.dx-pivotgrid .dx-pivotgrid-area {
+  width: auto !important;
+}
