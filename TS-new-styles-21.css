@@ -1,0 +1,78 @@
+[data-testid='test-component'] {
+  background: #fff !important;
+}
+[data-testid='sage-searh-bar'] {
+  box-shadow: none !important;
+  border-radius: 10px;
+}
+.bk-pinboard-data-viz {
+  box-shadow: none !important;
+}
+.bk-pinboard-data-viz {
+  padding: 0 12px !important;
+}
+.bk-pinboard-data-viz .bk-pinboard-viz-header {
+  display: none !important;
+  -ms-flex-basis: 0 !important;
+  flex-basis: 0 !important;
+  -md-flex-basis: 0 !important;
+}
+.bk-pinboard-data-viz .bk-pinboard-viz-content {
+  margin-top: 0 !important;
+}
+.pivot-table .dx-pivotgrid .dx-pivotgrid-area td {
+  padding: 4px 10px !important;
+}
+.pivot-table .dx-area-field-content {
+  max-width: 100% !important;
+}
+.pivot-table table.dx-area-field-container .dx-area-field.dx-area-box {
+  padding: 10px 0.35rem !important;
+}
+.pivot-table .dx-pivotgrid .dx-area-description-cell {
+  min-height: 40px !important;
+}
+.pivot-table .dx-pivotgrid .dx-area-description-cell .dx-pivotgrid-fields-area {
+  min-height: 40px !important;
+}
+.pivot-table .dx-pivotgrid .dx-data-header,
+.pivot-table .dx-pivotgrid .dx-area-row-cell {
+  width: 200px !important;
+}
+.dx-pivotgrid .dx-pivotgrid-area {
+  width: 100% !important;
+}
+.pivot-table .dx-pivotgrid .dx-column-header .dx-pivotgrid-fields-area {
+  max-width: 100% !important;
+}
+
+.menu-module__cascadingMenu.menu-module__openLeft {
+  right: auto !important;
+  left: 100% !important;
+}
+.dx-pivotgrid tr:last-child {
+  height: 35px !important;
+}
+.pivot-table .dx-pivotgrid .dx-pivotgrid-fields-area-head .dx-empty-area-text {
+  display: none !important;
+}
+.chartSection .vizWrapper {
+	flex-direction: column !important;
+	min-height: 0 !important;
+}
+
+.chartSection .vizWrapper .legend-width {
+	max-width: 100% !important;
+}
+
+.chartSection .vizWrapper .legend-area .vertical-legend {
+  width: 100% !important;
+}
+
+.chartSection .vizWrapper .legend-area .chart-legend-container-v2 {
+	flex-direction: row !important;
+}
+.chartSection .vizWrapper .chart-area .highcharts-container,
+.chartSection .vizWrapper .chart-area .highcharts-container svg {
+  width: 100% !important;
+}
