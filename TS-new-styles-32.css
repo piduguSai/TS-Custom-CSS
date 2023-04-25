@@ -1,0 +1,166 @@
+[data-testid='test-component'] {
+  background: #fff !important;
+}
+[data-testid='sage-searh-bar'] {
+  box-shadow: none !important;
+  border-radius: 10px;
+}
+.bk-pinboard-data-viz {
+  box-shadow: none !important;
+}
+.bk-pinboard-data-viz {
+  padding: 0 !important;
+}
+.bk-pinboard-data-viz .bk-pinboard-viz-header {
+  display: none !important;
+  -ms-flex-basis: 0 !important;
+  flex-basis: 0 !important;
+  -md-flex-basis: 0 !important;
+}
+.bk-pinboard-data-viz .bk-pinboard-viz-content {
+  margin-top: 0 !important;
+}
+.pivot-table .dx-pivotgrid .dx-pivotgrid-area td {
+  padding: 4px 10px !important;
+}
+.pivot-table .dx-area-field-content {
+  max-width: 100% !important;
+}
+.pivot-table table.dx-area-field-container .dx-area-field.dx-area-box {
+  padding: 10px 0.35rem !important;
+}
+.pivot-table .dx-pivotgrid .dx-area-description-cell {
+  min-height: 40px !important;
+}
+.pivot-table .dx-pivotgrid .dx-area-description-cell .dx-pivotgrid-fields-area {
+  min-height: 40px !important;
+}
+.pivot-table .dx-pivotgrid .dx-data-header,
+.pivot-table .dx-pivotgrid .dx-area-row-cell {
+  width: 200px !important;
+}
+.dx-pivotgrid .dx-pivotgrid-area {
+  width: 100% !important;
+}
+.pivot-table .dx-pivotgrid .dx-column-header .dx-pivotgrid-fields-area {
+  max-width: 100% !important;
+}
+
+.menu-module__cascadingMenu.menu-module__openLeft {
+  right: auto !important;
+  left: 100% !important;
+}
+.dx-pivotgrid tr:last-child {
+  height: 35px !important;
+}
+.pivot-table .dx-pivotgrid .dx-pivotgrid-fields-area-head .dx-empty-area-text {
+  display: none !important;
+}
+.chartSection .vizWrapper {
+	flex-direction: column !important;
+	min-height: 0 !important;
+}
+
+.chartSection .vizWrapper .legend-width {
+	max-width: 100% !important;
+}
+
+.chartSection .vizWrapper .legend-area .vertical-legend {
+  width: 100% !important;
+}
+
+.chartSection .vizWrapper .legend-area .chart-legend-container-v2 {
+	flex-direction: row !important;
+}
+.chartSection .vizWrapper .chart-area .highcharts-container,
+.chartSection .vizWrapper .chart-area .highcharts-container svg {
+  width: 100% !important;
+}
+.chartSection .vizWrapper .chart-legend-container-v2 .legend-item-v2 {
+  justify-content: center !important;
+}
+.chartSection .vizWrapper .chart-legend-container-v2 .legend-item-v2 .label-v2 {
+  width: auto !important;
+}
+.bk-geo-map-container .bk-color-scale {
+  background: #fff !important;
+  padding: 4px !important;
+  right: 0 !important;
+  bottom: 0 !important;
+}
+.bk-color-scale .bk-color-bar {
+  height: 10px !important;
+}
+.table-viz-module__textAlignRight {
+  text-align: center !important;
+}
+.bk-outline .ag-theme-alpine .ag-header-cell:after,
+.bk-outline .ag-theme-alpine .ag-header-group-cell:after{
+  background-color: #ddd !important;
+}
+.table-viz-module__colHeader {
+  background-color: rgba(242, 242, 242, 0.49) !important;
+}
+.table-viz-module__colHeader {
+  font-size: 14px !important;
+  text-transform: uppercase !important;
+  color: rgba(52, 52, 52, 0.8) !important;
+}
+.ag-theme-alpine .ag-header-viewport {
+  border-bottom: 1px solid rgba(0,0,0,0.15) !important;
+  background-color: rgba(242, 242, 242, 0.49) !important;
+}
+.ag-theme-alpine .ag-ltr .ag-cell {
+  border-right: 1px solid #ddd !important;
+}
+.ag-theme-alpine .ag-header {
+  height: 60px !important;
+  min-height: 60px !important;
+  background-color: rgba(242, 242, 242, 0.49) !important;
+}
+.ag-theme-alpine .ag-header-row {
+  height: 60px !important;
+}
+.ag-theme-alpine .ag-row {
+  font-size: 14px !important;
+  color: rgba(52, 52, 52, 0.8) !important;
+}
+
+
+// TS New expeience liveboards
+
+.answer-title-module__titleContainerCompact {
+    display: none !important;
+}
+
+.flex-layout-module__vertical.spacing-a>:last-child {
+    display: none !important;
+}
+
+.flex-layout-module__vertical.spacing-a>* {
+  margin-bottom: 0 !important;
+}
+
+.answer-content-header-module__compactContainer {
+  padding-bottom: 0 !important;
+}
+
+.answer-actions-container-module__answerActionsCompact,
+.answer-actions-container-module__answerActionsCompactHover {
+  position: absolute !important;
+  right: 20px !important;
+  top: 12px !important;
+  z-index: 5 !important;
+}
+
+.answer-content-module__compactVizContainer .answer-content-module__answerVizContainer {
+  padding: 0 !important;
+}
+
+.flex-layout-module__horizontal .answer-title-module__titleContainerCompact {
+    display: none !important;
+}
+
+.bk-powered-footer {
+  display: none !important;
+}
